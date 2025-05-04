@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+
+.btn {
+  @apply text-4xl bg-amber-300 rounded-4xl p-4 mt-10 font-serif font-bold text-amber-700 
+
+}
